@@ -1,3 +1,3 @@
 # IBM-Data-Analyst-Capstone-Project
-All the jupyter notebooks from the module.
+All the Jupyter Notebooks from the module.
 
